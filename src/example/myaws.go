@@ -1,4 +1,4 @@
-package mys3
+package main
 
 import (
 	"fmt"
